@@ -1,37 +1,58 @@
-# Hi there, I'm Irina! 👋  
-🌱 **Backend Developer** | **Database Enthusiast** | **Sber "School 21" Graduate**  
+# 👋 Hi, I'm Irina!
 
-Denis is krasavchik
+### Oracle DBA | Production Support Engineer | Backend Developer
 
-### 🛠️ Tech Stack  
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+I am a results-oriented engineer specializing in the support and optimization of high-load fintech infrastructure. With over 3 years of experience in database administration (Oracle, PostgreSQL) and distributed systems, I focus on building resilient environments and automating complex operational workflows.
 
+---
 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
+### 🛠️ Tech Stack
 
-**Backend & Databases:**  
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)  
+*   **Databases:** Oracle (RAC, Data Guard), PostgreSQL, PL/SQL
+*   **Languages:** SQL, Java (Spring), Python, Bash, C/C++
+*   **Infrastructure & DevOps:** Linux (Astra, Ubuntu), Docker, Git, CI/CD
+*   **Monitoring & Observability:** Zabbix, Grafana, ELK (Kibana)
+*   **Collaboration:** Jira, Confluence
 
-**DevOps & Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-FF6F00?style=flat&logo=github-actions&logoColor=white)  
+---
 
-### 🚀 My Projects  
-- [Game of Life](https://github.com/IrinaDimitri/Game_of_life) – Conway's Game of Life in Java  
-- [Bash Utilities](https://github.com/IrinaDimitri/Bash_utils) – Handy bash scripts for automation  
-- [Weather App](https://github.com/IrinaDimitri/weather-app) – Simple weather application  
+### 🚀 Featured Projects
 
-### 📊 GitHub Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaDimitri&layout=compact&theme=radical)](https://github.com/IrinaDimitri)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IrinaDimitri&show_icons=true&theme=radical)](https://github.com/IrinaDimitri)  
+> **Note:** These projects are personal initiatives developed to demonstrate practical programming skills, clean code practices, and backend architecture knowledge.
 
-### 📫 Let's Connect  
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram)](https://t.me/Irina_dimi)  
-[![Habr](https://img.shields.io/badge/-Habr-65A3BE?style=flat&logo=habr)](https://habr.com/ru/users/Anguycat/)  
+#### [Weather App](https://github.com/IrinaDimitri/weather-app)
+A Java/Spring-based weather monitoring REST API application developed to demonstrate backend competencies for internal career progression.
+*   **Stack:** Java, Spring Framework, REST API, CI/CD
+
+#### [Game of Life](https://github.com/IrinaDimitri/Game_of_life)
+A Java implementation of Conway's Game of Life, focusing on algorithmic logic and clean code.
+*   **Stack:** Java
+
+#### [Bash Utilities](https://github.com/IrinaDimitri/Bash_utils)
+A collection of automation scripts designed for system administration and large-scale data processing tasks.
+*   **Stack:** Bash, Linux CLI
+
+---
+
+### 📈 Impact & Metrics
+
+*   **75% reduction** in database maintenance execution time through PL/SQL automation
+*   **30% reduction** in Mean Time To Recovery (MTTR) for payment gateway incidents
+*   **95%+ SLA compliance** consistently maintained for high-priority B2C and fintech services
+
+---
+
+### 🎓 Education & Training
+
+*   **School 21 (Ecole 42 Network)** — Software Engineering (C/C++, Linux, DevOps)
+*   **MITM** — Project Management Studies
+
+---
+
+### 📫 Let's Connect
+
+*   **Telegram:** [@Irina_pdp](https://t.me/Irina_pdp)
+*   **Email:** [idimitrieva14@gmail.com](mailto:idimitrieva14@gmail.com)
+*   **Habr:** [Anguycat](https://habr.com/ru/users/Anguycat/)
+
+---

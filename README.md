@@ -22,15 +22,15 @@ I am a results-oriented engineer specializing in the support and optimization of
 
 #### [Weather App](https://github.com/IrinaDimitri/weather-app)
 A Java/Spring-based weather monitoring REST API application developed to demonstrate backend competencies for internal career progression.
-*   **Stack:** Java, Spring Framework, REST API, CI/CD
+*   **Stack:** Java 17, Spring Boot 3, Spring Web, Spring Data JPA, Hibernate, PostgreSQL, REST API, OpenAPI/Swagger (springdoc), Lombok, Jackson, Maven, Docker, Docker Compose, Nginx, GitHub Actions (CI/CD) — containerized backend, Postgres database, frontend proxied via Nginx; CI includes build, Docker, and related steps
 
 #### [Game of Life](https://github.com/IrinaDimitri/Game_of_life)
-A Java implementation of Conway's Game of Life, focusing on algorithmic logic and clean code.
-*   **Stack:** Java
+A C implementation of Conway's Game of Life, focusing on algorithmic logic and clean code.
+*   **Stack:** C, GCC, POSIX threads (pthread), GNU Make, clang-format (Google).
 
 #### [Bash Utilities](https://github.com/IrinaDimitri/Bash_utils)
 A collection of automation scripts designed for system administration and large-scale data processing tasks.
-*   **Stack:** Bash, Linux CLI
+*   **Stack:** C (C11), GCC, GNU Make, Bash (integration tests), clang-format (Google).
 
 ---
 

@@ -52,7 +52,7 @@ A collection of automation scripts designed for system administration and large-
 ### 📫 Let's Connect
 
 *   **Telegram:** [@Irina_pdp](https://t.me/Irina_pdp)
-*   **Email:** [idimitrieva14@gmail.com](mailto:idimitrieva14@gmail.com)
+*   **Email:** [anguycat@gmail.com](mailto:anguycat@gmail.com)
 *   **Habr:** [Anguycat](https://habr.com/ru/users/Anguycat/)
 
 ---
